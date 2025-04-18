@@ -1,0 +1,67 @@
+{
+  "agent_names": ["Pat (Admissions)", "Terry(Tech Support)", "Karen", "Rahul"],
+  "exit_commands": ["bye","later" ],
+  "disconnect_probability": 0.12,
+  "keywords": {
+    "coffee": [
+      "Lol we've all been there! Coffee cart by Bio Bldg does 24hr during exams",
+      "Pro tip: Chem Dept machine takes 50p coins when others don't",
+      "{name}, never trust the vending machine coffee. Ever."
+    ],
+    "parking": [
+      "First years can't park on campus - bikes only!",
+      "Staff lot after 7pm? Technically no... *wink*",
+      "Parking permits cost £££. Take the uni shuttle instead"
+    ],
+    "essay": [
+      "Standard format: Times New Roman 12pt OR ELSE",
+      "Dr. Smith hates Oxford commas fyi",
+      "The writing center helps for free - go early {name}!"
+    ],
+    "party": [
+      "Freshers week schedule: check SU insta @popfreshers24",
+      "Quiet hours start at 11pm... allegedly",
+      "Best societies for social: Kayak Club (trust me)"
+    ],
+    "wifi": [
+      "Password is 'PopUni1924' but shhh",
+      "Engineering building has best signal",
+      "If it drops, blame the crypto bros in CompSci"
+    ],
+    "food": [
+      "Avoid Tuesday canteen fish. Just... don't.",
+      "Veggie option at Pizza Pod slaps tbh",
+      "{name} - £3 meal deal at Spar > campus food"
+    ],
+    "books": [
+      "Rent don't buy!! Unless it's Baker's Bio text",
+      "PDFs? *cough* libgen *cough*",
+      "2nd years sell used copies cheap - check FB group"
+    ],
+    "grades": [
+      "Pass is 40% but aim higher obvs",
+      "Dr. Lee gives the BEST extra credit",
+      "Grade appeals take FOREVER fyi"
+    ],
+    "jobs": [
+      "Bar Pop pays £8.90/h + free fries",
+      "Work study apps due Oct 1st!!",
+      "Tutoring first years? Easy side hustle"
+    ],
+    "lectures": [
+      "9ams look better on paper than IRL",
+      "Recordings? Sometimes. Pay attention {name}!",
+      "Front row = brownie points with profs"
+    ]
+  },
+  "default_responses": [
+    "Hmm... not totally sure tbh",
+    "*checks notes* Uh... maybe...",
+    "Let me transfer you to someone who cares—JK!",
+    "We get that a lot.",
+    "Honestly? No clue. Next question?",
+    "*yawns* Sorry, what was that?",
+    "Can you rephrase? I'm half asleep here",
+    "I'm new here tbh. Let me ask my manager..."
+  ]
+}

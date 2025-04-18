@@ -1,0 +1,16 @@
+Session started at: 2025-04-18 21:38:19.239641
+User Name: thor
+Agent Name: Karen
+
+[2025-04-18 21:38:23] User: essay
+[2025-04-18 21:38:23] Bot: Standard format: Times New Roman 12pt OR ELSE
+[2025-04-18 21:38:27] User: 
+[2025-04-18 21:38:27] Bot: I'm new here tbh. Let me ask my manager...
+[2025-04-18 21:38:29] User: 
+[2025-04-18 21:38:29] Bot: Honestly? No clue. Next question?
+[2025-04-18 21:38:33] User: hello
+[2025-04-18 21:38:33] Bot: Honestly? No clue. Next question?
+[2025-04-18 21:38:40] User: food
+[2025-04-18 21:38:40] Bot: thor - Â£3 meal deal at Spar > campus food
+[2025-04-18 21:39:00] User: what about books
+[2025-04-18 21:39:00] Bot: Connection lost. Session terminated.
